@@ -1,2 +1,2 @@
-# ol-oll-DeepSurv-GUI
-Graphical User Interface and backend codes for deployment of a model to predict the malignant transformation of oral leukoplakia and oral lichen plans
+# ol-oll-occ-DeepSurv-GUI
+Graphical User Interface and backend codes for deployment of models to predict oral cavity cancer related outcomes
